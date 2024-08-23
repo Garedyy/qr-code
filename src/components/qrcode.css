@@ -1,0 +1,14 @@
+.qrcode{
+    background-color: var(--White);
+    padding: 16px;
+    max-width: 280px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.qrcode img{
+    width: 100%;
+    border-radius: 8px;
+}
